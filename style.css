@@ -646,7 +646,8 @@ body {
     }
 
     .search-bar__s1 input {
-        width: 400px;
+        max-width: 400px;
+        min-width: 200px;
     }
 
     .categories p {
@@ -679,7 +680,7 @@ body {
     }
 
     .card-image {
-        flex-basis: 45%;
+        flex-basis: 35%;
     }
 
     .explore__images {
