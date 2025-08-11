@@ -751,6 +751,10 @@ body {
     .card-image {
         flex-basis: 10%;
     }
+
+    .explore__images img {
+        height: 55%;
+    }
 }
 
 @media screen and (max-width:970px) {
