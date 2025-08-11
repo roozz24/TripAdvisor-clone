@@ -792,11 +792,7 @@ body {
 }
 
 @media screen and (max-width:490px) {
-    .card-image img {
-        height: 55%;
-    }
-
-    .search-bar {
+    .search-bar input {
         width: 250px;
     }
 }
