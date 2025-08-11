@@ -729,7 +729,7 @@ body {
     }
 }
 
-@media screen and (max-width:520px) {
+@media screen and (max-width:460px) {
     .card-image2 img {
         width: 230px;
         height: 250px;
@@ -753,7 +753,11 @@ body {
     }
 
     .explore__images img {
-        height: 55%;
+        height: 50%;
+    }
+
+    .explore__desc {
+        font-size: 20px;
     }
 }
 
