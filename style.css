@@ -747,6 +747,10 @@ body {
         max-width: 200px;
         line-height: 1.1;
     }
+
+    .card-image {
+        flex-basis: 20%;
+    }
 }
 
 @media screen and (max-width:970px) {
