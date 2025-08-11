@@ -729,11 +729,6 @@ body {
 }
 
 @media screen and (max-width:520px) {
-    .card-image2 img {
-        width: 230px;
-        height: 250px;
-    }
-
     .award-winning__cards__text,
     .card-image2 p {
         flex-wrap: wrap;
@@ -748,6 +743,15 @@ body {
 
     .explore__desc p {
         font-size: 18px;
+    }
+
+    .sale-image__text h1 {
+        font-size: 50px;
+        margin-top: 90px;
+    }
+
+    .sale-image__text p {
+        font-size: 20px;
     }
 }
 
