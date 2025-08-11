@@ -734,11 +734,6 @@ body {
         height: 250px;
     }
 
-    .card-image img {
-        width: 230px;
-        height: 250px;
-    }
-
     .award-winning__cards__text,
     .card-image2 p {
         flex-wrap: wrap;
@@ -792,7 +787,7 @@ body {
 }
 
 @media screen and (max-width:490px) {
-    .search-bar input {
+    .search-bar__s1 input {
         width: 250px;
     }
 }
