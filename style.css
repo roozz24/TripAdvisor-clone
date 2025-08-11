@@ -640,7 +640,6 @@ body {
     }
 
     .search-bar {
-        width: 100%;
         max-width: 450px;
         min-width: 250px;
         margin-top: 0;
