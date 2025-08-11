@@ -641,7 +641,6 @@ body {
 
     .search-bar {
         max-width: 450px;
-        min-width: 250px;
         margin-top: 0;
     }
 
@@ -729,7 +728,7 @@ body {
     }
 }
 
-@media screen and (max-width:460px) {
+@media screen and (max-width:520px) {
     .card-image2 img {
         width: 230px;
         height: 250px;
@@ -748,16 +747,12 @@ body {
         line-height: 1.1;
     }
 
-    .card-image {
-        flex-basis: 10%;
-    }
-
     .explore__images img {
         height: 50%;
     }
 
-    .explore__desc {
-        font-size: 20px;
+    .explore__desc p {
+        font-size: 18px;
     }
 }
 
@@ -793,5 +788,15 @@ body {
         margin: 0 auto;
         text-align: center;
         margin-top: 20px;
+    }
+}
+
+@media screen and (max-width:490px) {
+    .card-image img {
+        height: 55%;
+    }
+
+    .search-bar {
+        width: 250px;
     }
 }
