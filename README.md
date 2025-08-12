@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Tripadvisor Clone Banner" width="100%">
+</p>
+
 # 🌍 TripAdvisor Clone
 
 A modern, responsive **TripAdvisor-inspired travel platform** built with HTML and CSS.  
