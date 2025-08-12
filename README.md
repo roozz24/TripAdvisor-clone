@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Tripadvisor Clone Banner" width="100%">
+  <img src="./images/Readme tripadvisor banner.png" alt="Tripadvisor Clone Banner" width="100%">
 </p>
 
 # 🌍 TripAdvisor Clone
